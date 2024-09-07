@@ -14,7 +14,8 @@ This project is a **movie and event show ticket booking web application**, inspi
 ### Tech Stack:
 - React.js
 - JavaScript, HTML5, CSS3
-- Bootstrap for UI
+- Tailwind
+- Context API
 - API integration for movie/event data
 
 ---
