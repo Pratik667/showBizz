@@ -1,0 +1,1256 @@
+{
+  "movies": [
+    {
+      "title": "The Dark Knight",
+      "rating": "9.0/10",
+      "votes": "1.5M",
+      "formats": [
+        "2D",
+        "IMAX",
+        "4DX"
+      ],
+      "languages": [
+        "English"
+      ],
+      "duration": "2h 32m",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "certification": "UA",
+      "release_date": "18 Jul, 2008",
+      "media": {
+        "cover": "https://fly.storage.tigris.dev/showbizz/91ajl4DqDbL._SY741_.jpg",
+        "background": "https://fly.storage.tigris.dev/showbizz/the-dark-knight-et00001549-17-03-2021-06-39-49.avif"
+      },
+      "synopsis": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "cast": [
+        {
+          "actor": "Christian Bale",
+          "role": "Bruce Wayne / Batman"
+        },
+        {
+          "actor": "Heath Ledger",
+          "role": "Joker"
+        },
+        {
+          "actor": "Aaron Eckhart",
+          "role": "Harvey Dent"
+        }
+      ],
+      "crew": [
+        {
+          "role": "Director",
+          "name": "Christopher Nolan"
+        },
+        {
+          "role": "Producer",
+          "name": "Emma Thomas"
+        },
+        {
+          "role": "Writer",
+          "name": "Jonathan Nolan"
+        },
+        {
+          "role": "Musician",
+          "name": "Hans Zimmer"
+        }
+      ],
+      "reviews": {
+        "total_reviews": "1.2M",
+        "summary": {
+          "masterpiece": 4500,
+          "gripping": 4300,
+          "iconic": 4000
+        },
+        "hashtags": [
+          "Masterpiece",
+          "Gripping",
+          "Iconic"
+        ]
+      }
+    },
+    {
+      "title": "Inception",
+      "rating": "8.8/10",
+      "votes": "1.4M",
+      "formats": [
+        "2D",
+        "IMAX",
+        "3D"
+      ],
+      "languages": [
+        "English",
+        "Japanese"
+      ],
+      "duration": "2h 28m",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "certification": "UA",
+      "release_date": "16 Jul, 2010",
+      "media": {
+        "cover": "https://fly.storage.tigris.dev/showbizz/inception-et00004884-03-02-2021-07-04-48.avif",
+        "background": "https://fly.storage.tigris.dev/showbizz/inception-et00004883-03-02-2021-07-04-48.avif"
+      },
+      "synopsis": "A thief who enters the dreams of others to steal secrets from their subconscious is given a final job that requires him to do the impossible: instead of stealing an idea, he must plant one.",
+      "cast": [
+        {
+          "actor": "Leonardo DiCaprio",
+          "role": "Dom Cobb"
+        },
+        {
+          "actor": "Joseph Gordon-Levitt",
+          "role": "Arthur"
+        },
+        {
+          "actor": "Elliot Page",
+          "role": "Ariadne"
+        }
+      ],
+      "crew": [
+        {
+          "role": "Director",
+          "name": "Christopher Nolan"
+        },
+        {
+          "role": "Producer",
+          "name": "Emma Thomas"
+        },
+        {
+          "role": "Writer",
+          "name": "Christopher Nolan"
+        },
+        {
+          "role": "Musician",
+          "name": "Hans Zimmer"
+        }
+      ],
+      "reviews": {
+        "total_reviews": "1.1M",
+        "summary": {
+          "mind_bending": 4200,
+          "brilliant": 4100,
+          "original": 4000
+        },
+        "hashtags": [
+          "MindBending",
+          "Brilliant",
+          "Original"
+        ]
+      }
+    },
+    {
+      "title": "Titanic",
+      "rating": "7.8/10",
+      "votes": "850K",
+      "formats": [
+        "2D",
+        "3D",
+        "IMAX"
+      ],
+      "languages": [
+        "English",
+        "French"
+      ],
+      "duration": "3h 15m",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "certification": "UA",
+      "release_date": "19 Dec, 1997",
+      "media": {
+        "cover": "https://fly.storage.tigris.dev/showbizz/titanic-et00008457-1676022505.avif",
+        "background": "https://fly.storage.tigris.dev/showbizz/titanic-et00008457-1676022504.avif"
+      },
+      "synopsis": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+      "cast": [
+        {
+          "actor": "Leonardo DiCaprio",
+          "role": "Jack Dawson"
+        },
+        {
+          "actor": "Kate Winslet",
+          "role": "Rose DeWitt Bukater"
+        },
+        {
+          "actor": "Billy Zane",
+          "role": "Caledon 'Cal' Hockley"
+        }
+      ],
+      "crew": [
+        {
+          "role": "Director",
+          "name": "James Cameron"
+        },
+        {
+          "role": "Producer",
+          "name": "James Cameron"
+        },
+        {
+          "role": "Writer",
+          "name": "James Cameron"
+        },
+        {
+          "role": "Musician",
+          "name": "James Horner"
+        }
+      ],
+      "reviews": {
+        "total_reviews": "800K",
+        "summary": {
+          "epic": 3700,
+          "heartfelt": 3600,
+          "romantic": 3500
+        },
+        "hashtags": [
+          "Epic",
+          "Heartfelt",
+          "Romantic"
+        ]
+      }
+    },
+    {
+      "title": "The Godfather",
+      "rating": "9.2/10",
+      "votes": "1.7M",
+      "formats": [
+        "2D"
+      ],
+      "languages": [
+        "English"
+      ],
+      "duration": "2h 55m",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "certification": "A",
+      "release_date": "24 Mar, 1972",
+      "media": {
+        "cover": "https://fly.storage.tigris.dev/showbizz/the-godfather-1972-et00035560-23-02-2022-04-37-42.avif",
+        "background": "https://fly.storage.tigris.dev/showbizz/the-godfather-1972-et00035560-23-02-2022-04-37-41.avif"
+      },
+      "synopsis": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "cast": [
+        {
+          "actor": "Marlon Brando",
+          "role": "Vito Corleone"
+        },
+        {
+          "actor": "Al Pacino",
+          "role": "Michael Corleone"
+        },
+        {
+          "actor": "James Caan",
+          "role": "Sonny Corleone"
+        }
+      ],
+      "crew": [
+        {
+          "role": "Director",
+          "name": "Francis Ford Coppola"
+        },
+        {
+          "role": "Producer",
+          "name": "Albert S. Ruddy"
+        },
+        {
+          "role": "Writer",
+          "name": "Mario Puzo"
+        },
+        {
+          "role": "Musician",
+          "name": "Nino Rota"
+        }
+      ],
+      "reviews": {
+        "total_reviews": "1.5M",
+        "summary": {
+          "masterpiece": 4600,
+          "classic": 4500,
+          "powerful": 4300
+        },
+        "hashtags": [
+          "Masterpiece",
+          "Classic",
+          "Powerful"
+        ]
+      }
+    },
+    {
+      "title": "Pulp Fiction",
+      "rating": "8.9/10",
+      "votes": "1.3M",
+      "formats": [
+        "2D"
+      ],
+      "languages": [
+        "English"
+      ],
+      "duration": "2h 34m",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "certification": "A",
+      "release_date": "14 Oct, 1994",
+      "media": {
+        "cover": "https://fly.storage.tigris.dev/showbizz/pulp-fiction-iemv013962-24-03-2017-20-04-13.avif",
+        "background": "https://fly.storage.tigris.dev/showbizz/pulp-fiction-iemv013962-24-03-2017-20-04-14.avif"
+      },
+      "synopsis": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "cast": [
+        {
+          "actor": "John Travolta",
+          "role": "Vincent Vega"
+        },
+        {
+          "actor": "Uma Thurman",
+          "role": "Mia Wallace"
+        },
+        {
+          "actor": "Samuel L. Jackson",
+          "role": "Jules Winnfield"
+        }
+      ],
+      "crew": [
+        {
+          "role": "Director",
+          "name": "Quentin Tarantino"
+        },
+        {
+          "role": "Producer",
+          "name": "Lawrence Taub"
+        },
+        {
+          "role": "Writer",
+          "name": "Quentin Tarantino"
+        },
+        {
+          "role": "Musician",
+          "name": "Various Artists"
+        }
+      ],
+      "reviews": {
+        "total_reviews": "1.2M",
+        "summary": {
+          "innovative": 4400,
+          "quotable": 4300,
+          "darkly_comic": 4200
+        },
+        "hashtags": [
+          "Innovative",
+          "Quotable",
+          "DarklyComic"
+        ]
+      }
+    },
+    {
+      "title": "The Matrix",
+      "rating": "8.7/10",
+      "votes": "1.1M",
+      "formats": [
+        "2D",
+        "IMAX",
+        "3D"
+      ],
+      "languages": [
+        "English"
+      ],
+      "duration": "2h 16m",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "certification": "A",
+      "release_date": "31 Mar, 1999",
+      "media": {
+        "cover": "https://fly.storage.tigris.dev/showbizz/the-matrix-et00065557-17-03-2021-06-43-01.avif",
+        "background": "https://fly.storage.tigris.dev/showbizz/the-matrix-et00065557-17-03-2021-06-43-02.avif"
+      },
+      "synopsis": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "cast": [
+        {
+          "actor": "Keanu Reeves",
+          "role": "Neo"
+        },
+        {
+          "actor": "Laurence Fishburne",
+          "role": "Morpheus"
+        },
+        {
+          "actor": "Carrie-Anne Moss",
+          "role": "Trinity"
+        }
+      ],
+      "crew": [
+        {
+          "role": "Director",
+          "name": "Lana Wachowski"
+        },
+        {
+          "role": "Producer",
+          "name": "Joel Silver"
+        },
+        {
+          "role": "Writer",
+          "name": "Lana Wachowski"
+        },
+        {
+          "role": "Musician",
+          "name": "Don Davis"
+        }
+      ],
+      "reviews": {
+        "total_reviews": "1.0M",
+        "summary": {
+          "groundbreaking": 4200,
+          "thought_provoking": 4100,
+          "action_packed": 4000
+        },
+        "hashtags": [
+          "Groundbreaking",
+          "ThoughtProvoking",
+          "ActionPacked"
+        ]
+      }
+    },
+    {
+      "title": "Forrest Gump",
+      "rating": "8.8/10",
+      "votes": "1.2M",
+      "formats": [
+        "2D"
+      ],
+      "languages": [
+        "English"
+      ],
+      "duration": "2h 22m",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "certification": "UA",
+      "release_date": "6 Jul, 1994",
+      "media": {
+        "cover": "https://fly.storage.tigris.dev/showbizz/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+        "background": "https://fly.storage.tigris.dev/showbizz/compressed_183aaf9924772062bc510f47310e775e.webp"
+      },
+      "synopsis": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an extraordinary amount of common sense.",
+      "cast": [
+        {
+          "actor": "Tom Hanks",
+          "role": "Forrest Gump"
+        },
+        {
+          "actor": "Robin Wright",
+          "role": "Jenny Curran"
+        },
+        {
+          "actor": "Gary Sinise",
+          "role": "Lt. Dan Taylor"
+        }
+      ],
+      "crew": [
+        {
+          "role": "Director",
+          "name": "Robert Zemeckis"
+        },
+        {
+          "role": "Producer",
+          "name": "Wendy Finerman"
+        },
+        {
+          "role": "Writer",
+          "name": "Eric Roth"
+        },
+        {
+          "role": "Musician",
+          "name": "Alan Silvestri"
+        }
+      ],
+      "reviews": {
+        "total_reviews": "1.1M",
+        "summary": {
+          "heartwarming": 4400,
+          "touching": 4300,
+          "inspirational": 4200
+        },
+        "hashtags": [
+          "Heartwarming",
+          "Touching",
+          "Inspirational"
+        ]
+      }
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "rating": "9.3/10",
+      "votes": "1.8M",
+      "formats": [
+        "2D"
+      ],
+      "languages": [
+        "English"
+      ],
+      "duration": "2h 22m",
+      "genres": [
+        "Drama"
+      ],
+      "certification": "A",
+      "release_date": "14 Oct, 1994",
+      "media": {
+        "cover": "https://fly.storage.tigris.dev/showbizz/the-shawshank-redemption-et00069227-1707458004.avif",
+        "background": "https://fly.storage.tigris.dev/showbizz/the-shawshank-redemption-et00069227-1707458002.avif"
+      },
+      "synopsis": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "cast": [
+        {
+          "actor": "Tim Robbins",
+          "role": "Andy Dufresne"
+        },
+        {
+          "actor": "Morgan Freeman",
+          "role": "Ellis Redding"
+        },
+        {
+          "actor": "Bob Gunton",
+          "role": "Warden Norton"
+        }
+      ],
+      "crew": [
+        {
+          "role": "Director",
+          "name": "Frank Darabont"
+        },
+        {
+          "role": "Producer",
+          "name": "Niki Marvin"
+        },
+        {
+          "role": "Writer",
+          "name": "Frank Darabont"
+        },
+        {
+          "role": "Musician",
+          "name": "Thomas Newman"
+        }
+      ],
+      "reviews": {
+        "total_reviews": "1.7M",
+        "summary": {
+          "masterpiece": 4700,
+          "moving": 4600,
+          "powerful": 4500
+        },
+        "hashtags": [
+          "Masterpiece",
+          "Moving",
+          "Powerful"
+        ]
+      }
+    },
+    {
+      "title": "Fight Club",
+      "rating": "8.8/10",
+      "votes": "1.0M",
+      "formats": [
+        "2D"
+      ],
+      "languages": [
+        "English"
+      ],
+      "duration": "2h 19m",
+      "genres": [
+        "Drama"
+      ],
+      "certification": "A",
+      "release_date": "15 Oct, 1999",
+      "media": {
+        "cover": "https://fly.storage.tigris.dev/showbizz/fight-club-et00057642-25-05-2017-01-24-07.avif",
+        "background": "https://fly.storage.tigris.dev/showbizz/fight-club-et00057642-25-05-2017-01-24-08.avif"
+      },
+      "synopsis": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into much more.",
+      "cast": [
+        {
+          "actor": "Brad Pitt",
+          "role": "Tyler Durden"
+        },
+        {
+          "actor": "Edward Norton",
+          "role": "The Narrator"
+        },
+        {
+          "actor": "Helena Bonham Carter",
+          "role": "Marla Singer"
+        }
+      ],
+      "crew": [
+        {
+          "role": "Director",
+          "name": "David Fincher"
+        },
+        {
+          "role": "Producer",
+          "name": "Art Linson"
+        },
+        {
+          "role": "Writer",
+          "name": "Jim Uhls"
+        },
+        {
+          "role": "Musician",
+          "name": "The Dust Brothers"
+        }
+      ],
+      "reviews": {
+        "total_reviews": "950K",
+        "summary": {
+          "intense": 4100,
+          "thought-provoking": 4000,
+          "cult_classic": 3900
+        },
+        "hashtags": [
+          "Intense",
+          "ThoughtProvoking",
+          "CultClassic"
+        ]
+      }
+    },
+    {
+      "title": "Interstellar",
+      "rating": "8.6/10",
+      "votes": "1.1M",
+      "formats": [
+        "2D",
+        "IMAX",
+        "3D"
+      ],
+      "languages": [
+        "English"
+      ],
+      "duration": "2h 49m",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "certification": "UA",
+      "release_date": "7 Nov, 2014",
+      "media": {
+        "cover": "https://fly.storage.tigris.dev/showbizz/interstellar-et00019066-19-02-2021-02-25-12.avif",
+        "background": "https://fly.storage.tigris.dev/showbizz/interstellar-et00019066-19-02-2021-02-25-13.avif"
+      },
+      "synopsis": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "cast": [
+        {
+          "actor": "Matthew McConaughey",
+          "role": "Cooper"
+        },
+        {
+          "actor": "Anne Hathaway",
+          "role": "Brand"
+        },
+        {
+          "actor": "Jessica Chastain",
+          "role": "Murph"
+        }
+      ],
+      "crew": [
+        {
+          "role": "Director",
+          "name": "Christopher Nolan"
+        },
+        {
+          "role": "Producer",
+          "name": "Emma Thomas"
+        },
+        {
+          "role": "Writer",
+          "name": "Jonathan Nolan"
+        },
+        {
+          "role": "Musician",
+          "name": "Hans Zimmer"
+        }
+      ],
+      "reviews": {
+        "total_reviews": "1.0M",
+        "summary": {
+          "ambitious": 4200,
+          "emotionally_resonant": 4100,
+          "visual_feast": 4000
+        },
+        "hashtags": [
+          "Ambitious",
+          "EmotionallyResonant",
+          "VisualFeast"
+        ]
+      }
+    },
+    {
+      "title": "The Lion King",
+      "rating": "8.5/10",
+      "votes": "900K",
+      "formats": [
+        "2D",
+        "3D"
+      ],
+      "languages": [
+        "English"
+      ],
+      "duration": "1h 29m",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "certification": "UA",
+      "release_date": "24 Jun, 1994",
+      "media": {
+        "cover": "https://fly.storage.tigris.dev/showbizz/the-lion-king-et00089130-15-10-2020-03-40-49.avif",
+        "background": "https://fly.storage.tigris.dev/showbizz/the-lion-king-et00089130-15-10-2020-03-40-50.avif"
+      },
+      "synopsis": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to take over the kingdom.",
+      "cast": [
+        {
+          "actor": "Matthew Broderick",
+          "role": "Simba"
+        },
+        {
+          "actor": "James Earl Jones",
+          "role": "Mufasa"
+        },
+        {
+          "actor": "Jeremy Irons",
+          "role": "Scar"
+        }
+      ],
+      "crew": [
+        {
+          "role": "Director",
+          "name": "Roger Allers"
+        },
+        {
+          "role": "Producer",
+          "name": "Don Hahn"
+        },
+        {
+          "role": "Writer",
+          "name": "Irene Mecchi"
+        },
+        {
+          "role": "Musician",
+          "name": "Elton John"
+        }
+      ],
+      "reviews": {
+        "total_reviews": "850K",
+        "summary": {
+          "timeless": 4000,
+          "heartwarming": 3900,
+          "musical": 3800
+        },
+        "hashtags": [
+          "Timeless",
+          "Heartwarming",
+          "Musical"
+        ]
+      }
+    },
+    {
+      "title": "Jurassic Park",
+      "rating": "8.1/10",
+      "votes": "950K",
+      "formats": [
+        "2D",
+        "3D",
+        "IMAX"
+      ],
+      "languages": [
+        "English"
+      ],
+      "duration": "2h 7m",
+      "genres": [
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "certification": "PG",
+      "release_date": "11 Jun, 1993",
+      "media": {
+        "cover": "https://fly.storage.tigris.dev/showbizz/jurassic-park-et00066934-02-03-2021-10-47-41.avif",
+        "background": "https://fly.storage.tigris.dev/showbizz/jurassic-park-et00066934-02-03-2021-10-47-40.avif"
+      },
+      "synopsis": "During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.",
+      "cast": [
+        {
+          "actor": "Sam Neill",
+          "role": "Dr. Alan Grant"
+        },
+        {
+          "actor": "Laura Dern",
+          "role": "Dr. Ellie Sattler"
+        },
+        {
+          "actor": "Jeff Goldblum",
+          "role": "Dr. Ian Malcolm"
+        }
+      ],
+      "crew": [
+        {
+          "role": "Director",
+          "name": "Steven Spielberg"
+        },
+        {
+          "role": "Producer",
+          "name": "Kathleen Kennedy"
+        },
+        {
+          "role": "Writer",
+          "name": "Michael Crichton"
+        },
+        {
+          "role": "Musician",
+          "name": "John Williams"
+        }
+      ],
+      "reviews": {
+        "total_reviews": "900K",
+        "summary": {
+          "exciting": 3800,
+          "groundbreaking": 3700,
+          "thrilling": 3600
+        },
+        "hashtags": [
+          "Exciting",
+          "Groundbreaking",
+          "Thrilling"
+        ]
+      }
+    },
+    {
+      "title": "Avatar",
+      "rating": "7.8/10",
+      "votes": "1.4M",
+      "formats": [
+        "2D",
+        "3D",
+        "IMAX"
+      ],
+      "languages": [
+        "English"
+      ],
+      "duration": "2h 42m",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "certification": "UA",
+      "release_date": "18 Dec, 2009",
+      "media": {
+        "cover": "https://fly.storage.tigris.dev/showbizz/avatar-et00004000-1663573360.avif",
+        "background": "https://fly.storage.tigris.dev/showbizz/avatar-et00004000-1663573359.avif"
+      },
+      "synopsis": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+      "cast": [
+        {
+          "actor": "Sam Worthington",
+          "role": "Jake Sully"
+        },
+        {
+          "actor": "Zoe Saldana",
+          "role": "Neytiri"
+        },
+        {
+          "actor": "Sigourney Weaver",
+          "role": "Dr. Grace Augustine"
+        }
+      ],
+      "crew": [
+        {
+          "role": "Director",
+          "name": "James Cameron"
+        },
+        {
+          "role": "Producer",
+          "name": "James Cameron"
+        },
+        {
+          "role": "Writer",
+          "name": "James Cameron"
+        },
+        {
+          "role": "Musician",
+          "name": "James Horner"
+        }
+      ],
+      "reviews": {
+        "total_reviews": "1.3M",
+        "summary": {
+          "visually_stunning": 4300,
+          "immersive": 4200,
+          "innovative": 4100
+        },
+        "hashtags": [
+          "VisuallyStunning",
+          "Immersive",
+          "Innovative"
+        ]
+      }
+    },
+    {
+      "title": "Gladiator",
+      "rating": "8.5/10",
+      "votes": "850K",
+      "formats": [
+        "2D",
+        "IMAX"
+      ],
+      "languages": [
+        "English"
+      ],
+      "duration": "2h 35m",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "certification": "UA",
+      "release_date": "5 May, 2000",
+      "media": {
+        "cover": "https://fly.storage.tigris.dev/showbizz/gladiator-et00001918-17-02-2021-04-42-52.avif",
+        "background": "https://fly.storage.tigris.dev/showbizz/gladiator-et00001918-17-02-2021-04-42-53.avif"
+      },
+      "synopsis": "When a Roman general is betrayed and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge.",
+      "cast": [
+        {
+          "actor": "Russell Crowe",
+          "role": "Maximus Decimus Meridius"
+        },
+        {
+          "actor": "Joaquin Phoenix",
+          "role": "Commodus"
+        },
+        {
+          "actor": "Connie Nielsen",
+          "role": "Lucilla"
+        }
+      ],
+      "crew": [
+        {
+          "role": "Director",
+          "name": "Ridley Scott"
+        },
+        {
+          "role": "Producer",
+          "name": "Douglas Wick"
+        },
+        {
+          "role": "Writer",
+          "name": "David Franzoni"
+        },
+        {
+          "role": "Musician",
+          "name": "Hans Zimmer"
+        }
+      ],
+      "reviews": {
+        "total_reviews": "800K",
+        "summary": {
+          "epic": 3800,
+          "powerful": 3700,
+          "gritty": 3600
+        },
+        "hashtags": [
+          "Epic",
+          "Powerful",
+          "Gritty"
+        ]
+      }
+    },
+    {
+      "title": "The Departed",
+      "rating": "8.5/10",
+      "votes": "950K",
+      "formats": [
+        "2D"
+      ],
+      "languages": [
+        "English"
+      ],
+      "duration": "2h 31m",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "certification": "A",
+      "release_date": "6 Oct, 2006",
+      "media": {
+        "cover": "https://fly.storage.tigris.dev/showbizz/the-departed-et00000649-23-03-2021-08-18-41.avif",
+        "background": "https://fly.storage.tigris.dev/showbizz/the-departed-et00000649-23-03-2021-08-18-40.avif"
+      },
+      "synopsis": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in Boston.",
+      "cast": [
+        {
+          "actor": "Leonardo DiCaprio",
+          "role": "Billy Costigan"
+        },
+        {
+          "actor": "Matt Damon",
+          "role": "Colin Sullivan"
+        },
+        {
+          "actor": "Jack Nicholson",
+          "role": "Frank Costello"
+        }
+      ],
+      "crew": [
+        {
+          "role": "Director",
+          "name": "Martin Scorsese"
+        },
+        {
+          "role": "Producer",
+          "name": "Brad Pitt"
+        },
+        {
+          "role": "Writer",
+          "name": "William Monahan"
+        },
+        {
+          "role": "Musician",
+          "name": "Howard Shore"
+        }
+      ],
+      "reviews": {
+        "total_reviews": "900K",
+        "summary": {
+          "intense": 3900,
+          "gritty": 3800,
+          "suspenseful": 3700
+        },
+        "hashtags": [
+          "Intense",
+          "Gritty",
+          "Suspenseful"
+        ]
+      }
+    },
+    {
+      "title": "Se7en",
+      "rating": "8.6/10",
+      "votes": "800K",
+      "formats": [
+        "2D"
+      ],
+      "languages": [
+        "English"
+      ],
+      "duration": "2h 7m",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "certification": "A",
+      "release_date": "22 Sep, 1995",
+      "media": {
+        "cover": "https://fly.storage.tigris.dev/showbizz/image-asset.jpg",
+        "background": "https://fly.storage.tigris.dev/showbizz/image-asset.jpg"
+      },
+      "synopsis": "Two detectives hunt a serial killer who uses the seven deadly sins as motives for his crimes.",
+      "cast": [
+        {
+          "actor": "Brad Pitt",
+          "role": "David Mills"
+        },
+        {
+          "actor": "Morgan Freeman",
+          "role": "William Somerset"
+        },
+        {
+          "actor": "Kevin Spacey",
+          "role": "John Doe"
+        }
+      ],
+      "crew": [
+        {
+          "role": "Director",
+          "name": "David Fincher"
+        },
+        {
+          "role": "Producer",
+          "name": "Arnold Kopelson"
+        },
+        {
+          "role": "Writer",
+          "name": "Andrew Kevin Walker"
+        },
+        {
+          "role": "Musician",
+          "name": "Howard Shore"
+        }
+      ],
+      "reviews": {
+        "total_reviews": "750K",
+        "summary": {
+          "dark": 3800,
+          "suspenseful": 3700,
+          "gripping": 3600
+        },
+        "hashtags": [
+          "Dark",
+          "Suspenseful",
+          "Gripping"
+        ]
+      }
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "rating": "8.6/10",
+      "votes": "850K",
+      "formats": [
+        "2D"
+      ],
+      "languages": [
+        "English"
+      ],
+      "duration": "1h 58m",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "certification": "A",
+      "release_date": "14 Feb, 1991",
+      "media": {
+        "cover": "https://fly.storage.tigris.dev/showbizz/MV5BZTk5NTYzMGEtMDE2OS00ODYxLWJiNjQtNGMyMmM2MTE0M2QxXkEyXkFqcGc@._V1_.jpg",
+        "background": "https://fly.storage.tigris.dev/showbizz/silence20of20the20lambs_0-c9cff20e8d054953873bf9bf609d9def.jpg"
+      },
+      "synopsis": "A young FBI cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims.",
+      "cast": [
+        {
+          "actor": "Jodie Foster",
+          "role": "Clarice Starling"
+        },
+        {
+          "actor": "Anthony Hopkins",
+          "role": "Hannibal Lecter"
+        },
+        {
+          "actor": "Lawrence A. Bonney",
+          "role": "Dr. Frederick Chilton"
+        }
+      ],
+      "crew": [
+        {
+          "role": "Director",
+          "name": "Jonathan Demme"
+        },
+        {
+          "role": "Producer",
+          "name": "Kenneth Utt"
+        },
+        {
+          "role": "Writer",
+          "name": "Ted Tally"
+        },
+        {
+          "role": "Musician",
+          "name": "Howard Shore"
+        }
+      ],
+      "reviews": {
+        "total_reviews": "800K",
+        "summary": {
+          "chilling": 3700,
+          "gripping": 3600,
+          "psychological": 3500
+        },
+        "hashtags": [
+          "Chilling",
+          "Gripping",
+          "Psychological"
+        ]
+      }
+    },
+    {
+      "title": "Léon: The Professional",
+      "rating": "8.5/10",
+      "votes": "700K",
+      "formats": [
+        "2D"
+      ],
+      "languages": [
+        "English",
+        "French"
+      ],
+      "duration": "1h 50m",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "certification": "A",
+      "release_date": "14 Sep, 1994",
+      "media": {
+        "cover": "https://fly.storage.tigris.dev/showbizz/leon-the-professional-et00003530-03-03-2019-02-16-32.avif",
+        "background": "https://fly.storage.tigris.dev/showbizz/leon-the-professional-et00003530-03-03-2019-02-16-33.avif"
+      },
+      "synopsis": "A professional assassin rescues a young girl whose parents were killed in front of her. As she grows up, she becomes his apprentice and helps him on his missions.",
+      "cast": [
+        {
+          "actor": "Jean Reno",
+          "role": "Léon"
+        },
+        {
+          "actor": "Natalie Portman",
+          "role": "Mathilda"
+        },
+        {
+          "actor": "Gary Oldman",
+          "role": "Stansfield"
+        }
+      ],
+      "crew": [
+        {
+          "role": "Director",
+          "name": "Luc Besson"
+        },
+        {
+          "role": "Producer",
+          "name": "Luc Besson"
+        },
+        {
+          "role": "Writer",
+          "name": "Luc Besson"
+        },
+        {
+          "role": "Musician",
+          "name": "Eric Serra"
+        }
+      ],
+      "reviews": {
+        "total_reviews": "650K",
+        "summary": {
+          "gritty": 3600,
+          "moving": 3500,
+          "stylish": 3400
+        },
+        "hashtags": [
+          "Gritty",
+          "Moving",
+          "Stylish"
+        ]
+      }
+    }
+  ]
+}
