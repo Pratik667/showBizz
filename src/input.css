@@ -221,6 +221,7 @@
 }
 .media-desc .media-format {
 	margin: 16px 0;
+    font-family: 'Montserrat';
 }
 .media-desc .media-format .form-data{
 	font-family: 'Montserrat';
@@ -309,4 +310,150 @@ header nav .item-logo{
     font-family: 'Montserrat-black';
     color: #e72317;
     font-size: 20px;
+}
+.booking-ticket{
+    margin-top:32px;
+}
+.booking-ticket .movie-title{
+    padding: 6px 0;    
+    font-family: 'Montserrat';
+    font-size: 32px;
+}
+.booking-ticket .movie-desc{
+    border-bottom: 1px solid rgb(229, 229, 229);
+}
+.booking-ticket .media-desc .media-format .form-data, .booking-ticket .media-desc .media-format .form-data-spacer{
+    color: #000;
+}
+.book-ticket button{
+    background: #e72317;
+    color: #fff;
+    padding: 12px 16px;
+    border-radius: 5px;
+    font-family: 'Montserrat';
+}
+.book-ticket button:hover{
+    background: #eb534a;
+}
+.movie-avail-desc {
+    padding: 16px;
+    margin: 24px 0;
+    background: #f5f5f5;
+}
+.movie-avail-desc .movie-availability {
+    padding-bottom: 16px;
+    font-family: 'Montserrat';
+}
+.movie-avail-desc .more-details {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.movie-avail-desc .movie-screens {
+    margin-right: 16px;
+    margin-top: 16px;
+    background: #fff;
+    padding: 12px;
+    border: 1px solid;
+    border-radius: 5px;
+    font-size: 14px;
+    font-family: 'Montserrat';
+    cursor: pointer;
+}
+.movie-avail-desc .movie-screens:hover{
+    background: #eb534a;
+    border-color: #eb534a;
+    color: #fff;
+}
+.seat-selection-modal {
+    background-color: white;
+    width: 80%;
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.seat-selection-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.75);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.seat-selection-modal .seat-layout {
+    margin-top: 20px;
+    /* Customize seat layout grid styles here */
+}
+
+.seat-selection-modal .ticket-quantity {
+    margin: 15px 0 20px 0;
+}
+
+.seat-selection-modal .ticket-quantity label {
+    margin-right: 10px;
+}
+
+.seat-selection-modal .seat-title{
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Montserrat-bold';
+}
+
+.seat-selection-modal .seat-desc{
+    font-family: 'Montserrat';
+    margin: 14px 0;
+}
+
+.ticket-options {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    margin: 16px 0;
+}
+
+.radio-button {
+    font-size: 16px;
+    color: #333;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.radio-button input[type="radio"] {
+    display: none;
+}
+
+.radio-button input[type="radio"]:checked + span {
+    background: #ff4c68;
+    font-weight: bold;
+    border-radius: 16px;
+    color: #fff;
+    padding: 15px;
+}
+.seat-selection-modal .ticket-quantity .ticket-options label {
+    margin-right: 10px;
+    width: 40px;
+    text-align: center;
+}
+.seat-selection-modal .btn-cancel{
+    font-family: 'Montserrat';
+    font-size: 14px;
+    text-decoration: underline;
+    color: #ff4c68;
+}
+.seat-selection-modal .btn-confirm{
+    background: #e72317;
+    color: #fff;
+    padding: 12px 16px;
+    border-radius: 5px;
+    font-family: 'Montserrat';
+    margin-right: 14px;
 }

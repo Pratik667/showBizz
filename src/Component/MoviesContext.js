@@ -25,5 +25,6 @@ export function MovieProvider({ children }) {
 }
 
 export function useMoviesContext() {
+    //This is a best practise which prevents developer from creating useContext instance in every component they use
     return useContext(MoviesContext);
 }

@@ -1,11 +1,17 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
 import { useMoviesContext } from '../Component/MoviesContext';
+import { useNavigate } from "react-router-dom";
 
 function ShowDetail() {
   const { movies } = useMoviesContext();
   const { id } = useParams();
   const show = movies[id - 1];
+  let navigate  = useNavigate();
+
+  function handleClick(id) {
+    navigate(`/booking/${id}`);
+  }
 
   if (!show) {
     return <div>Show not found</div>;
@@ -41,7 +47,9 @@ function ShowDetail() {
                   <span className="form-data-spacer">•</span>
                   <span className="form-data release-date">{show.release_date}</span>
                 </div>
+                <div className="book-ticket"><button onClick={() => handleClick(show.title)}>Book a Ticket</button></div>
             </div>
+            
           </div>
         </div>
       </section>
